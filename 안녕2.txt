@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>EVERDEVEL - JavaScript - click event</title>
+<script>
+    document.getElementsByClassName('hello')[2].style.color = "red";
+</script>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>EVERDEVEL - JavaScript - click event</title>
+<script>
+    window.onload = function(){
+        document.getElementsByClassName('hello')[2].style.color = "red";
+    };
+</script>
+
+
+mistake eager unveil cargo blame unveil powder often crazy knock glow outer
+
+Microsoft Windows [Version 10.0.19044.1706]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Model>nslookup google.com
+서버:    bns1.hananet.net
+Address:  210.220.163.82
+
+권한 없는 응답:
+이름:    google.com
+Addresses:  2404:6800:4004:80a::200e
+          172.217.175.110
+
+
+C:\Users\Model>ping google.com
+
+Ping google.com [142.250.207.110] 32바이트 데이터 사용:
+142.250.207.110의 응답: 바이트=32 시간=38ms TTL=57
+142.250.207.110의 응답: 바이트=32 시간=54ms TTL=57
+142.250.207.110의 응답: 바이트=32 시간=40ms TTL=57
+142.250.207.110의 응답: 바이트=32 시간=43ms TTL=57
+
+142.250.207.110에 대한 Ping 통계:
+    패킷: 보냄 = 4, 받음 = 4, 손실 = 0 (0% 손실),
+왕복 시간(밀리초):
+    최소 = 38ms, 최대 = 54ms, 평균 = 43ms
+
+C:\Users\Model>tracert google.com
+
+최대 30홉 이상의
+google.com [142.250.207.110](으)로 가는 경로 추적:
+
+  1     *        1 ms     3 ms  192.168.0.1
+  2     *        *        *     요청 시간이 만료되었습니다.
+  3    11 ms     2 ms     5 ms  100.70.69.209
+  4     5 ms     2 ms     2 ms  10.63.252.190
+  5    22 ms     2 ms     2 ms  10.222.35.2
+  6    15 ms     2 ms     2 ms  10.222.22.101
+  7    58 ms    37 ms    54 ms  72.14.216.72
+  8    42 ms    36 ms    39 ms  66.249.95.159
+  9    35 ms    46 ms    35 ms  108.170.242.98
+ 10    48 ms    67 ms    36 ms  209.85.244.35
+ 11    44 ms    50 ms    38 ms  142.250.58.92
+ 12    47 ms    38 ms    39 ms  108.170.243.33
+ 13    40 ms    37 ms    38 ms  142.251.69.231
+ 14    49 ms    51 ms    36 ms  kix06s11-in-f14.1e100.net [142.250.207.110]
+
+추적을 완료했습니다.
+
+C:\Users\Model>
+
+
+   < 1 rETH 있는 지갑 >
+
+ 주소: 0xbA9428cD15763AF9e97E1172500237Fa6AeD8a84
+ 프라이빗 키 : 0x1e35062eefff4c050c734a99a84f720448af4227d5a6a45c960f3aa89b578528
+
+
+
+ < 생각해야 할 것 >
+
+
+  AR 아트 기술을 이용해 간단하게 게임을 만들어 낼  수 있는 개발 환경이 필요
+ 
+   
+
+ 
+
+
+
+
